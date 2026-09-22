@@ -1,6 +1,5 @@
 marks3 = float(input("Enter marks for Subject 3: "))
 
-
 marks4 = float(input("Enter marks for Subject 4: "))
 marks1 = float(input("Enter marks for Subject 1: "))
 marks5 = float(input("Enter marks for Subject 5: "))
